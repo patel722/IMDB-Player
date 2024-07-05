@@ -5,6 +5,7 @@ Hello,
 This is an simple Chrome extension, you open IMDB and open an movie or tv-show. Right click and there will be an option to either play the movie or play the show. 
 
 Before it works, you have to configure an content provider. The extension is based on V/I/D/S/R/C api parameters, so if you use another provider you will need to adjust the code accordingly.
+*NOTE DO NOT PIN THE EXTENSION TO THE TOOLBAR, as this will give it access to every page you open and it will slow down the performance.
 
 Steps to install:
 1. Click on the Green "<>Code" Button
