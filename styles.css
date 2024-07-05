@@ -1,0 +1,7 @@
+/* Hide specific ad elements on IMDb */
+.ipc-ad-slot,
+.ab_widget,
+.hero-widget,
+[data-testid="injected_ad"] {
+  display: none !important;
+}
